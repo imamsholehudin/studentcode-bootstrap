@@ -63,10 +63,10 @@
 
         <div class="row">
           <div class="col-sm-5 col-sm-offset-1">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta aut fuga recusandae ad vero voluptates voluptatibus iusto expedita voluptas animi itaque, ratione commodi pariatur. Quia veniam hic eius iure quis.</p>
+            <p class="kiri">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta aut fuga recusandae ad vero voluptates voluptatibus iusto expedita voluptas animi itaque, ratione commodi pariatur. Quia veniam hic eius iure quis.</p>
           </div>
           <div class="col-sm-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla ipsam, veritatis nesciunt eveniet voluptas labore quidem recusandae enim, repudiandae ab accusantium consectetur minus optio adipisci voluptates omnis consequuntur dolore qui?</p>
+            <p class="kanan">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla ipsam, veritatis nesciunt eveniet voluptas labore quidem recusandae enim, repudiandae ab accusantium consectetur minus optio adipisci voluptates omnis consequuntur dolore qui?</p>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@
 
 
     <!-- portfolio -->
-    <section class="portfolio" id="portfolio">
+    <section class="portofolio" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
@@ -186,8 +186,10 @@
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"> console.log("Imam Sholehudin");</script>
 
  
   </body>
